@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag1 on 总有代码在等你</title>
+    <link>https://xiao-guan.github.io/tags/tag1/</link>
+    <description>Recent content in tag1 on 总有代码在等你</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 May 2022 22:23:24 +0800</lastBuildDate><atom:link href="https://xiao-guan.github.io/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://xiao-guan.github.io/post/first-post/</link>
+      <pubDate>Wed, 25 May 2022 22:23:24 +0800</pubDate>
+      
+      <guid>https://xiao-guan.github.io/post/first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
